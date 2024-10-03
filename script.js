@@ -14,8 +14,8 @@ const dadosPessoa = {
     "telefone": "71986822422",
     "email": "ariel@marcofaria.com",
     "dataNascimento": "21/02/1994",
-    "urls": ["https://github.com/Arielguilardi",
-        "https://linkedin.com/in/arielguilardi",
+    "urls": [{titulo: "Github", "url": "https://github.com/Arielguilardi"},
+        {titulo: "Linkdin", "url": "https://linkedin.com/in/arielguilardi",
         "https://facebook.com/arielguilardi"]
 }
 
